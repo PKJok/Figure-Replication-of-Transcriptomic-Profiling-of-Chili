@@ -39,7 +39,7 @@ Supplementary files are provided for validating and comparing results.
    * `Normalized TMM`
    * `DEG result for each Stress`
 
-## 📊Type of Plots in this Repository ##
+## 📊 Type of Plots in this Repository ##
 1. Boxplot
 2. PCA Plots
 3. Heatmaps
