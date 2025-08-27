@@ -10,10 +10,10 @@ This repository contains **figures replicated** from the research paper publishe
 
 ## 🗂 Data Source
 
-The raw RNA-seq data is available from **NCBI GEO**:  
+The raw RNA-seq read data is available in this repository as **.txt** file or from **NCBI GEO**:  
 [GEO: GSE132824](https://identifiers.org/GEO:GSE132824)  
 
-**Download instructions:**
+**Download instructions from GEO:**
 
 ```bash
 # Download raw count file
@@ -38,3 +38,12 @@ Supplementary files are provided for validating and comparing results.
 
    * `Normalized TMM`
    * `DEG result for each Stress`
+
+## 📊Type of Plots in this Repository ##
+1. Boxplot
+2. PCA Plots
+3. Heatmaps
+4. MD plots
+
+
+
