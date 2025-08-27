@@ -21,3 +21,20 @@ wget https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE132824&format=file&file=G
 
 # Extract the file
 gunzip GSE132824_Abiotic_RNA-Seq.Readcount.txt.gz
+```
+
+##📎 Supplementary Files
+
+Supplementary files are provided for validating and comparing results.
+
+**Link:** [Figshare Supplementary Files](https://doi.org/10.6084/m9.figshare.10264832.v5)
+
+**Steps to download:**
+
+1. Open the Figshare link.
+2. Click **Download all** to get a zip file.
+3. Extract the zip file.
+4. Required folders for this project:
+
+   * `Normalized TMM`
+   * `DEG result for each Stress`
