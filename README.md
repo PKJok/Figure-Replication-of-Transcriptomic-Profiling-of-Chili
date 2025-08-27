@@ -23,7 +23,7 @@ wget https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE132824&format=file&file=G
 gunzip GSE132824_Abiotic_RNA-Seq.Readcount.txt.gz
 ```
 
-##📎 Supplementary Files
+##📎 Supplementary Files ##
 
 Supplementary files are provided for validating and comparing results.
 
